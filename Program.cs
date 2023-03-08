@@ -17,7 +17,35 @@ namespace I_claim_a_bit_of_tenderness
         }
 
         /**
-         * Basic - 16)
+         * Basic - 17 | CORRECTION
+         * 
+         *  create a new string from a given string (length 1 or more ) with the first character added at the front and back
+         */
+        public static void ShouldBeMain()
+        {
+            string str;
+            str = Console.ReadLine();
+            if (str.Length >=1)
+            {
+                var s = str.Substring(0, 1);
+                Console.WriteLine(s + str + s);
+            }
+        }
+
+
+        /**
+         * Basic - 17 | MY CREATION
+         * 
+         *  create a new string from a given string (length 1 or more ) with the first character added at the front and back
+         */
+        public static string Basics_17_Arthurs(string str)
+        {
+            return str.Length > 0
+                ? str.Substring(0, 1) + str + str.Substring(0, 1) : str;
+        }
+
+        /**
+         * Basic - 16) | MY CREATION
          * 
          *  create a new string from a given string where the first and last characters will change their positions
          * **/
