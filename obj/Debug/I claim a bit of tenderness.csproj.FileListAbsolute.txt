@@ -1,0 +1,8 @@
+C:\Users\arthu\source\repos\I claim a bit of tenderness\I claim a bit of tenderness\bin\Debug\I claim a bit of tenderness.exe.config
+C:\Users\arthu\source\repos\I claim a bit of tenderness\I claim a bit of tenderness\bin\Debug\I claim a bit of tenderness.exe
+C:\Users\arthu\source\repos\I claim a bit of tenderness\I claim a bit of tenderness\bin\Debug\I claim a bit of tenderness.pdb
+C:\Users\arthu\source\repos\I claim a bit of tenderness\I claim a bit of tenderness\obj\Debug\I claim a bit of tenderness.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\I claim a bit of tenderness\I claim a bit of tenderness\obj\Debug\I claim a bit of tenderness.csproj.SuggestedBindingRedirects.cache
+C:\Users\arthu\source\repos\I claim a bit of tenderness\I claim a bit of tenderness\obj\Debug\I claim a bit of tenderness.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\I claim a bit of tenderness\I claim a bit of tenderness\obj\Debug\I claim a bit of tenderness.exe
+C:\Users\arthu\source\repos\I claim a bit of tenderness\I claim a bit of tenderness\obj\Debug\I claim a bit of tenderness.pdb
